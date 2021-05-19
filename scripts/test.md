@@ -1,6 +1,5 @@
 **Describe the bug**
-<!--- A clear and concise description of what the bug is. --->
-I was attempting to configure a Google Analytics Setup Dimensions job in my froyo account (AID 4037), but was unable to start the job since I could not select a web property.
+<!--- I was attempting to configure a Google Analytics Setup Dimensions job in my froyo account (AID 4037), but was unable to start the job since I could not select a web property. --->
 
 **To Reproduce**
 <!---
