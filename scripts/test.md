@@ -1,8 +1,7 @@
 **Describe the bug**
-<!--- I was attempting to configure a Google Analytics Setup Dimensions job in my froyo account (AID 4037), but was unable to start the job since I could not select a web property. --->
+I was attempting to configure a Google Analytics Setup Dimensions job in my froyo account (AID 4037), but was unable to start the job since I could not select a web property.
 
 **To Reproduce**
-<!---
 Steps to reproduce the behavior:
 1. Go to Data > Jobs
 2. Click "Create New Job"
@@ -13,13 +12,11 @@ Steps to reproduce the behavior:
 7. Select Google account from Google Ads Account "Choose Option..." dropdown
 8. Note that Web Property still has no available options to select
 9. Click Start Export (you will then see that Web Property "options unavailable" dropdown is now red)
---->
 
 **Expected behavior**
-<!--- Setup Dimensions job starts --->
+Setup Dimensions job starts
 
 **Screenshots**
-<!---  --->
 
 **Additional context**
-<!--- I'm not sure if this impacts things at all, but the I am using Google Analytics 4 --->
+I'm not sure if this impacts things at all, but the I am using Google Analytics 4
